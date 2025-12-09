@@ -1,6 +1,3 @@
-Sure! Here's a `README.md` file for your MongoDB installation script:
-
-````markdown
 # MongoDB Installation Script for Ubuntu
 
 ## Author
@@ -111,23 +108,3 @@ If you need to uninstall MongoDB for any reason, follow these steps:
   * Ensure that your Ubuntu version is compatible with MongoDB 8.2 (check MongoDB's official documentation for compatibility).
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-### Key Sections of the README:
-1. **Description**: Gives a brief overview of what the script does.
-2. **Prerequisites**: Lists what is required to run the script (Ubuntu, sudo privileges, etc.).
-3. **Installation Steps**: Detailed steps to download, make the script executable, and run it.
-4. **Verification**: How to verify if MongoDB is installed and running.
-5. **Uninstallation**: Provides instructions to remove MongoDB and clean up.
-6. **Troubleshooting**: Helps users troubleshoot potential issues with MongoDB installation or startup.
-7. **License**: It’s always good practice to add a license section if you plan to share or distribute your script publicly.
-
----
-
-Let me know if you'd like any modifications!
-```
